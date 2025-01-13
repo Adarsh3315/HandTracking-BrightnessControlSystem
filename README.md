@@ -2,17 +2,12 @@
 **Developed By:** A&J  
 **YouTube Demo Video Link:** [Watch the Demo](https://youtu.be/XUucfJl2FaQ?si=-RBzqRg3SmLqhigq)  
 
----
-
 ### **Overview**  
 The **Hand Tracking & Brightness Control System** is an innovative Python-based application that uses hand gestures to dynamically control the screen brightness. By tracking the distance between the thumb and index finger in real-time, it adjusts the brightness level seamlessly.  
 
 This program integrates **computer vision**, **hand tracking technology**, and an **interactive GUI** for ease of use.
 
----
-
 ### **Features**  
-
 1. **Real-Time Hand Tracking:**  
    - Detects and tracks hand landmarks using Mediapipe's hand solution.  
    - Displays landmarks and connections on the video feed.  
@@ -31,10 +26,7 @@ This program integrates **computer vision**, **hand tracking technology**, and a
 5. **User-Friendly Design:**  
    - Intuitive GUI layout with labels, buttons, and a menu bar for navigation.  
 
----
-
 ### **How It Works**  
-
 #### **Brightness Adjustment Logic**  
 - Detects the **thumb tip** and **index tip** positions using Mediapipe.  
 - Calculates the Euclidean distance between the two points using the `hypot` function.  
@@ -51,10 +43,7 @@ This program integrates **computer vision**, **hand tracking technology**, and a
   - **Start Video** and **Stop Video** buttons allow users to control the webcam feed.  
   - A **menu bar** offers options like program exit and an "About" dialog box.  
 
----
-
 ### **Usage Guide**  
-
 1. **Starting the Program:**  
    - Run the Python script to launch the GUI.  
 
@@ -73,29 +62,13 @@ This program integrates **computer vision**, **hand tracking technology**, and a
 5. **Viewing About Information:**  
    - Access the "About" option in the **Help** menu for details about the application.  
 
----
-
-### **Dependencies**  
-
-Make sure the following libraries are installed in your Python environment:  
-- **OpenCV:** `pip install opencv-python`  
-- **Mediapipe:** `pip install mediapipe`  
-- **Screen Brightness Control:** `pip install screen-brightness-control`  
-- **Pillow:** `pip install pillow`  
-
----
-
 ### **System Requirements**  
 - A functional webcam.  
 - Python 3.x installed.  
 - Compatible with Windows, macOS, or Linux.  
 
----
-
 ### **Code Summary**  
-
 #### **Key Functions:**  
-
 1. **`process_frame()`**  
    - Captures video frames and processes them for hand tracking.  
    - Detects thumb and index finger landmarks.  
@@ -113,8 +86,6 @@ Make sure the following libraries are installed in your Python environment:
 5. **Menu Options:**  
    - "Exit" closes the application.  
    - "About" displays program details.  
-
----
 
 ### **YouTube Demonstration**  
 Check out the live demonstration of this program on YouTube:  
