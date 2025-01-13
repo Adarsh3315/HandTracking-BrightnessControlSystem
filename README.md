@@ -90,3 +90,11 @@ This program integrates **computer vision**, **hand tracking technology**, and a
 ### **YouTube Demonstration**  
 Check out the live demonstration of this program on YouTube:  
 👉 [Hand Tracking & Brightness Control System Demo](https://youtu.be/XUucfJl2FaQ?si=-RBzqRg3SmLqhigq)  
+
+## Contribution
+Feel free to fork the repository, submit issues, or suggest improvements. Contributions are always welcome!
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Developed by **A&J** as part of the Multimodal System.
