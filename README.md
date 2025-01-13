@@ -1,6 +1,7 @@
-### **Hand Tracking & Brightness Control System**  
-**Developed By:** A&J  
-**YouTube Demo Video Link:** [Watch the Demo](https://youtu.be/XUucfJl2FaQ?si=-RBzqRg3SmLqhigq)  
+# **Hand Tracking & Brightness Control System**  
+### **YouTube Demonstration**  
+   - Check out the live demonstration of this program on YouTube:  
+👉 [Hand Tracking & Brightness Control System Demo](https://youtu.be/XUucfJl2FaQ?si=-RBzqRg3SmLqhigq)
 
 ### **Overview**  
 The **Hand Tracking & Brightness Control System** is an innovative Python-based application that uses hand gestures to dynamically control the screen brightness. By tracking the distance between the thumb and index finger in real-time, it adjusts the brightness level seamlessly.  
@@ -86,10 +87,6 @@ This program integrates **computer vision**, **hand tracking technology**, and a
 5. **Menu Options:**  
    - "Exit" closes the application.  
    - "About" displays program details.  
-
-### **YouTube Demonstration**  
-   - Check out the live demonstration of this program on YouTube:  
-👉 [Hand Tracking & Brightness Control System Demo](https://youtu.be/XUucfJl2FaQ?si=-RBzqRg3SmLqhigq)  
 
 ### **Contribution**
 Feel free to fork the repository, submit issues, or suggest improvements. Contributions are always welcome!
